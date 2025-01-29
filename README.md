@@ -4,14 +4,8 @@
 
 ## About Me
 
-I am a passionate developer with a keen interest in software development, open-source projects, and continuous learning. I enjoy solving complex problems and building efficient, scalable solutions.
+Non-descript.
 
-## Skills
-
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks and Libraries:** React, Node.js, Express, Django, Flask
-- **Tools and Platforms:** Git, Docker, Kubernetes, AWS, Azure
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
 ## Projects
 
